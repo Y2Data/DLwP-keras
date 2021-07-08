@@ -1,5 +1,7 @@
 # DLwP-keras
 
+Notebook from colab.
+
 Dog-cat classifier started from scratch.
 
 Approaches taken:
